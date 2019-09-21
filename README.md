@@ -1,2 +1,3 @@
 # hello-world-
-Just another repository 
+
+My name is Kishahnica and I'm from Lincoln, Nebraska 
